@@ -61,6 +61,10 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="f5O-kv-6h3"/>
+                    <connections>
+                        <outlet property="botaoAjuda" destination="P6o-3X-Ck6" id="EfI-2H-CwA"/>
+                        <outlet property="botaoSom" destination="wCe-kp-yLx" id="EJV-pS-yy7"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
